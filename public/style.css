@@ -1,0 +1,13 @@
+body {
+  background-color: orange;
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
+
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  background-color: red;
+  font-size: 25px;
+}
